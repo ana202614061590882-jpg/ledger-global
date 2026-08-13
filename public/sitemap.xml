@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+
+  <url>
+    <loc>https://ledger-global.vercel.app/en-us/index.html</loc>
+  </url>
+  <url>
+    <loc>https://ledger-global.vercel.app/en-us/ledger-wallet.html</loc>
+  </url>
+  <url>
+    <loc>https://ledger-global.vercel.app/en-us/ledger-login.html</loc>
+  </url>
+
+  <url>
+    <loc>https://ledger-global.vercel.app/en-gb/index.html</loc>
+  </url>
+  <url>
+    <loc>https://ledger-global.vercel.app/en-gb/ledger-wallet.html</loc>
+  </url>
+  <url>
+    <loc>https://ledger-global.vercel.app/en-gb/ledger-login.html</loc>
+  </url>
+
+  <url>
+    <loc>https://ledger-global.vercel.app/en-ca/index.html</loc>
+  </url>
+  <url>
+    <loc>https://ledger-global.vercel.app/en-ca/ledger-wallet.html</loc>
+  </url>
+  <url>
+    <loc>https://ledger-global.vercel.app/en-ca/ledger-login.html</loc>
+  </url>
+
+  <url>
+    <loc>https://ledger-global.vercel.app/fr/index.html</loc>
+  </url>
+  <url>
+    <loc>https://ledger-global.vercel.app/fr/ledger-wallet.html</loc>
+  </url>
+  <url>
+    <loc>https://ledger-global.vercel.app/fr/ledger-login.html</loc>
+  </url>
+
+  <url>
+    <loc>https://ledger-global.vercel.app/ja/index.html</loc>
+  </url>
+  <url>
+    <loc>https://ledger-global.vercel.app/ja/ledger-wallet.html</loc>
+  </url>
+  <url>
+    <loc>https://ledger-global.vercel.app/ja/ledger-login.html</loc>
+  </url>
+
+</urlset>
