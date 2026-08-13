@@ -1,0 +1,13 @@
+{
+  "name": "ledger-global",
+  "version": "1.0.0",
+  "description": "Independent multilingual informational website about Ledger Wallet and cryptocurrency security.",
+  "main": "api/index.js",
+  "scripts": {
+    "start": "node api/index.js"
+  },
+  "dependencies": {
+    "ejs": "^3.1.10",
+    "express": "^5.1.0"
+  }
+}
